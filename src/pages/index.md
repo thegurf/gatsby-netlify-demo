@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with an attitude
+title: Great coffee with a conscience
 image: /img/products-full-width.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
